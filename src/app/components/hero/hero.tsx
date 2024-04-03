@@ -4,7 +4,7 @@ const Ero = () => {
    
     return (
         <div className='flex flex-col justify-center items-center gap-4'>
-            <h2 className='mt-4 lg:px-20'>मरती टैम दिख'री काली</h2>
+            <h2 className='mt-4 lg:px-20'>भिवानी के गैंगस्टर का बदला</h2>
             <video className='lg:w-3/4' width="100%" height="auto" controls autoPlay muted>
                 <source src="https://media.stage.in/adsImages_NC/bbb_hr_teaser.mp4" type="video/mp4" />
             </video>
